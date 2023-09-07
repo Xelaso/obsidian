@@ -1,11 +1,10 @@
 ---
-Name: "{{title}}"
 Class: 
 Date: "{{date}}"
 Due-Date: 
 Tagged-Concepts: 
-Description:
+Status: In Progress
 ---
-#class-material 
+#class-material #class-work 
 
 # Topic

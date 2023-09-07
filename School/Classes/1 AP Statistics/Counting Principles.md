@@ -1,12 +1,11 @@
 ---
-Name: Counting Principles
-Class: 
+Class: Statistics
 Date: 09-06-2023
 Due-Date: 09-07-2023
 Tagged-Concepts: 
-Description:
+Status: Done
 ---
-#class-material
+#class-work
 
 ## Combinations and Permutations
 - permutation: order matters
