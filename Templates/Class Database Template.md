@@ -2,7 +2,7 @@
 Class: 
 Date: "{{date}}"
 Due-Date: 
-Tagged-Concepts: 
+Tagged-Concepts: Work
 Status: In Progress
 ---
 #class-material #class-work 
