@@ -7,4 +7,5 @@ Status: In Progress
 ---
 #class-work 
 
+##### All Work: [[Homework]]
 Tree & Venn Diagram WS
