@@ -1,6 +1,6 @@
 ---
-Class: 
-Due-Date: {{date:MM-DD-YYYY}}
+Class: Statistics
+Due-Date: 09-11-2023
 Tagged-Concepts: Work
 Status: In Progress
 ---
