@@ -1,6 +1,6 @@
 ---
 Class: Statistics
-Due-Date: 09-18-2023
+Due-Date: 2023-09-18
 Tagged-Concepts: Work
 Status: In Progress
 ---

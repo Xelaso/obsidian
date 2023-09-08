@@ -1,8 +1,11 @@
 ---
-Class: Statistics
-Due-Date: 2023-10-06
+Class: English
+Due-Date: 2023-09-08
 Tagged-Concepts: Work
 Status: In Progress
 ---
 #class-work 
+
+---
+
 
