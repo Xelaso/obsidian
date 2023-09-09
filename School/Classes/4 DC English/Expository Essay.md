@@ -10,7 +10,7 @@ Status: In Progress
 
 
 Talking Points: [[Talking Points]]
-NonC: [[Expository Essay (nonc)]]
+
 
 
 ### The Importance of Physics in Electrical Engineering
