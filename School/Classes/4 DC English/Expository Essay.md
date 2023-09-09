@@ -10,11 +10,11 @@ Status: In Progress
 
 
 Talking Points: [[Talking Points]]
-
+NonC: [[Expository Essay (nonc)]]
 
 
 ### The Importance of Physics in Electrical Engineering
-	 Although an electrical engineer needs to be proficient in a variety of skills from many classes, advanced physics is the most important. 
+	Although an electrical engineer needs to be proficient in a variety of skills from many classes, advanced physics is the most important. 
 	
 	This is necessary for understanding the intricate behaviors of circuits and signals — two foundational pillars of electrical engineering. As students learn and progress into the depths of physics, they will eventually encounter the mysterious and confusing realm of quantum mechanics. With the way that current technology is advancing, where devices and components are shrinking to nanoscopic levels, quantum principles are becoming increasingly relevant. Additionally, physics, especially branches such as quantum mechanics, is a subject that takes years to master. 
 	
