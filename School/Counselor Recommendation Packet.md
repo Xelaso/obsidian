@@ -1,11 +1,10 @@
 
 
 1. N/A
-2. TBD
+2. Perseverance: Sticking with cross country, one of the most intense sports, running through heat and cold, rain and wind. Enduring in the face of failure and setback; not making swim team, turning that into motivation to make a team, leading to cross country. This has carried to my academics, where I persevere through difficult classes and am not disheartened when I don't do well. Rather, I take failure and setbacks as learning experiences and use that to push forwards. 
 3. Favorite Memories:
-	1. Attending a computer club competition hosted by Plano West
-	2. Creating a circuit board in engineering class
-4. Favorite Quote: "A journey of a thousand miles begins with a single step"
-5. My intended major is Electrical Engineering. In ten years, I see myself graduated from college with a degree in EE and working to better the world through improvements in technologies, helping various fields such as medical. 
-6. TBD
-7. 
+	1. Attending a computer club competition hosted by Plano West: I have always loved computer competitions, but attending one hosted by my school was a different experience. Being able to see so many people gathering for a competition in somewhere I was familiar with felt nice. The competition itself was also very fun, as we had input in coming up with the theme and questions that would be used in the competition. Seeing our hard work being displayed and enjoyed was delightful. 
+	2. Creating a circuit board in engineering class: This was my first step into the field of electrical engineering. I had never learned about circuits before, but once I learned the inner workings and how to build a circuit board, I was hooked. Figuring out how to align the wires and switches and lights to create a working circuit board was very fun, and it lead to growing my interest in the electrical engineering field. 
+4. Favorite Quote: "A journey of a thousand miles begins with a single step": I found this quote to be very meaningful and have applied it into my life. There were many times in my life where I had no idea what do to to solve a problem or approach a seemingly impossible goal. However, this quote has become my life motto, and what I strive to employ. Instead of looking at the whole problem, which is infinitely daunting, I broke the problem into steps. I took one step at a time, little by little, turning a impossible task into a possible one. This has affected my outlook on life in general. When my goals seem too hard or far, I take a step back and look at the first step of the process. I focus on each step, instead of the final goal. This way, I am not overwhelmed by the magnitude of the task at hand. 
+5. My intended major is Electrical Engineering. Ten years from now, I envision myself leading a team of engineers in a cutting-edge technology firm, driving advancements in sustainable energy solutions and improving technologies in the medical field. I aspire to merge my technical expertise with a passion for addressing global challenges, ensuring that the innovations we create not only push the boundaries of what's possible in electrical engineering but also contribute meaningfully to a more sustainable and interconnected world.
+6. TBD 
