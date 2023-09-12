@@ -76,3 +76,7 @@ June 2022 - August 2022
 - Supported classroom activities, tutoring, and reviewing work
 - Graded assignments and reported individual progress to the teacher
 - Helped grade assignments and tests and gave feedback to students
+
+
+----
+[[Counselor Recommendation Packet]]

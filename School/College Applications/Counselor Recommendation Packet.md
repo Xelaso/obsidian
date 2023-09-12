@@ -1,3 +1,5 @@
+[[Brag Sheet]]
+
 1. N/A
 2. Perseverance: Sticking with cross country, one of the most intense sports, running through heat and cold, rain and wind. Enduring in the face of failure and setback; not making swim team, turning that into motivation to make a team, leading to cross country. This has carried to my academics, where I persevere through difficult classes and am not disheartened when I don't do well. Rather, I take failure and setbacks as learning experiences and use that to push forwards. 
 3. Favorite Memories:
