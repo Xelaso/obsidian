@@ -41,6 +41,8 @@ August 2020 - May 2022
 Athlete
 
 ### Awards  
+National Merit Scholars Semi-Finalist 2024
+September 2023
 
 USACO Silver Division 
 December 2022
