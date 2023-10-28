@@ -47,8 +47,8 @@ E. Imports exceed exports
 
 7. As a measure of economic welfare, GDP underestimates a country’s production of goods and services
 when there is an increase in
-<mark style="background: #FFF3A3A6;">A. The production of naval ships for the military</mark>
-B. Household production
+A. The production of naval ships for the military
+<mark style="background: #FFF3A3A6;">B. Household production</mark>
 C. The production of solar panel devices
 D. Legal protective services
 E. Crime prevention services
@@ -107,8 +107,8 @@ E. Not in the Labor Force
 is considered
 A. Frictionally unemployed
 B. Seasonally unemployed
-<mark style="background: #FFF3A3A6;">C. Stucturally unemployed</mark>
-D. Cyclically unemployed
+C. Stucturally unemployed
+<mark style="background: #FFF3A3A6;">D. Cyclically unemployed</mark>
 E. Not in the Labor Force
 
 15. The natural rate of unemployment
