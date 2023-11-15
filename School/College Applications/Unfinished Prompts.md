@@ -5,6 +5,8 @@ Purdue:
 
 How will opportunities at Purdue support your interests, both in and out of the classroom? (Respond in 250 words or fewer.)
 
+
+
 UIUC:
 
 Explain, in detail, an experience you've had in the past 3 to 4 years related to your first-choice major. This can be an experience from an extracurricular activity, in a class you’ve taken, or through something else.
