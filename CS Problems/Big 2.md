@@ -1,0 +1,1 @@
+You are playing a game of Big 2 with your friends. The premise of Big 2 is simple. Your main objective is to get rid of all the card in your hand. To discard a card(s), you must 
