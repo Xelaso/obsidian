@@ -1,0 +1,9 @@
+A game of Go starts with an empty board. Each player has an effectively unlimited supply of pieces (called **stones**), one taking the black stones, the other taking white. The main object of the game is to use your stones to form territories by surrounding vacant areas of the board. It is also possible to capture your opponent's stones by completely surrounding them.
+
+Players take turns, placing one of their stones on a vacant point at each turn, with Black playing first. Note that stones are placed on the intersections of the lines rather than in the squares (meaning there are no diagonals, only 4 directions) and once played stones are not moved. However they may be captured, in which case they are removed from the board, and kept by the capturing player as **prisoners**. 
+
+At the end of the game, the players count one point for each vacant point inside their own territory, and one point for every stone they have captured. The player with the larger total of territory plus prisoners is the winner.
+
+The empty points which are horizontally and vertically adjacent to a stone, or a solidly connected string of stones, are known as **liberties**. An isolated stone or solidly connected string of stones is captured when all of its liberties are occupied by enemy stones. On an empty board, a stone in the middle (not touching any edges of the board) has 4 liberties, while a stone in the corner of the board only has two and a stone on any edge has 3. 
+
+If a stone of one color, let's say white, is surrounded, or has its liberties occupied, by stones of the other color, black, it is taken 'prisoner' and removed from the board. For example, on an empty board with one white stone in the middle (4 liberties), if 4 black stones are placed adjacent to the white stone on either side, the white stone would be removed from play and given to the black stone player, leaving a plus shaped formation with no middle on the board. 
