@@ -131,7 +131,7 @@ redraw()
 ```
 
 
-Unit 3 - File Input/Output
+# Unit 3 - File Input/Output
 
 16.
 ```
@@ -139,7 +139,42 @@ System.out.printf("18s +8d  +.3f", stuname, id, gpa);
 ```
 
 17.
+```
+Text stores readable and easily modifiable formats, while binary is in binary form
+Text files can be transfered between computer systems, binary files cannot
+```
 
+18.
+```
+Sequential access is in order, while random access randomly accesses data in no set order
+```
+
+19.
+```
+Data caching is storing data temporarily in a location for faster and easier access. This is important in I/O because it is temporary, and if it is not saved it is lost.
+```
+
+20.
+```
+Serializable
+```
+
+21.
+```
+PrintWriter write = new PrintWriter("final.dat");
+write.println("Up\nOppenheimer\nInception");
+write.close();
+
+```
+
+22.
+```
+Scanner scan = new Scanner(new File("final.dat"));
+while(scan.hasNextLine()){
+	System.out.println(scan.nextLine());
+}
+
+```
 
 Unit 4 - Algorithmic Analysis
 
