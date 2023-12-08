@@ -176,5 +176,119 @@ while(scan.hasNextLine()){
 
 ```
 
-Unit 4 - Algorithmic Analysis
+# Unit 4 - Algorithmic Analysis
 
+# Unit 7 - Special Linked Lists
+
+63.
+```
+removeLast()
+```
+
+64.
+```
+ListNode<Integer> temp = back.getNext();
+double num = 0;
+int count = 0;
+do{
+	num += temp.getValue();
+	count++;
+	temp = temp.getNext();
+} while(temp != back);
+
+num /= count;
+
+```
+
+65.
+```
+
+public void addFirst(E val){
+	ListNode<E> node = new ListNode<>(val, null);
+	if(back == null){
+		back = node;
+	}
+	else{
+		node.setNext(back.getNext());
+		back.setNext(node);
+	}
+}
+
+public E removeFirst(){
+	if(back == null){
+		throw new NoSuchElementException;
+	}	
+	E val = back.getNext().getValue();
+	back.setNext(back.getNext().getNext());
+	return val;
+}
+
+```
+
+
+66.
+```
+public void addFirst(E val){
+	ListNode<E> node = new ListNode<>(val, null, null);
+	if(front == null){
+		front = back = node;
+	}
+	else{
+		node.setNext(front);
+		front = node;
+	}
+}
+
+public E removeFirst(E val){
+	if(front == null){
+		throw new NoSuchElementException;
+	}
+	E val = front.getValue();
+	if(front == back){
+		front = back = null;
+		return val;
+	}
+	else{
+		front = front.getNext();
+		front.setPrevious(null);
+	}
+}
+
+```
+
+
+67.
+```
+Singly Linked List
+```
+
+68.
+```
+addFirst: O(1)
+addLast: O(1)
+removeFirst: O(1)
+removeLast: O(n)
+get: O(n)
+```
+
+69.
+```
+Hashing transforming any key/string into a value to be stored in a hash table for fast access. The ideal time complexity is O(1)
+```
+
+70.
+```
+hashCode()
+```
+
+71.
+```
+Collision is when two different values have the same hash code, resulting in the need to resolve it using something like chaining
+```
+
+72.
+```
+a) If a collision occurs, keep going linearly until a empty slot is found
+b) If a collision occurs, check the i^2 slot in the ith iteration until a slot if found
+c) Each spot in a hashtable holds a linked list. if a collision occurs, 'chain' the value onto the linked list (adding it to the list)
+```
