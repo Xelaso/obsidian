@@ -1,5 +1,7 @@
 
-
+Alexander So
+6th Period HCS3
+[2, 5]
 # Unit 1 - Java Review
 
 1.
@@ -72,7 +74,7 @@ The difference between an abstract class and an interface is an abstract class i
 
 7.
 ```
-
+Make the subclass abstract
 ```
 
 8.
