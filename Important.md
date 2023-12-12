@@ -9,7 +9,8 @@
 | UIUC         | alexso2105@gmail.com                               | Sp=230580         | https://myillini.illinois.edu/IdentityManagement/Home/Dashboard |                        |
 | UC San Deigo | alexso2105@gmail.com                               | Sp=23058012639622 | https://beatriton.ucsd.edu/apply/status                         |                        |
 | UC Berkely   | alexso2105@gmail.com                               | Sp=23058012639622 | https://apply.berkeley.edu/apply/status                         |                        |
-| UCLA         | alexso2105@gmail.com / Applicant ID: 2053878       |                   |                                                                 |                        |
+| UCLA         | alexso2105@gmail.com / Applicant ID: 2053878       |                   | https://bruins.admission.ucla.edu/myApplication/Login.aspx      |                        |
+|              |                                                    |                   |                                                                 |                        |
 
 ----
 

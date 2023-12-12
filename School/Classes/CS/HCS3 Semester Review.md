@@ -180,6 +180,150 @@ while(scan.hasNextLine()){
 
 # Unit 4 - Algorithmic Analysis
 
+
+# Unit 5 - Sets, and Maps
+
+45.
+```
+A set is a collection of data that is similar to an array but cannot contain duplicates
+```
+
+46.
+```
+A TreeSet is sorted, while a HashSet is unsorted. 
+A HashSet has a add of O(1), while TreeSet has O(logn)
+HashSet contains method is O(1) while TreeSet is O(logn) 
+```
+
+47.
+```
+TreeSet<String> temp = new TreeSet<>();
+for(int i = 0; i < mySet.size(); i++){
+	if(mySet.get(i).equals("West")){
+		break;
+	}
+	temp.add(mySet.get(i));
+}
+for(int i = 0; i < temp.size(); i++){
+	System.out.println(temp.get(i));
+}
+```
+
+48.
+```
+A map is a collection of data that is stored via a key and value. There cannot be two of the same key, but different keys can point to the same value
+```
+
+49.
+```
+HashMap has a get of O(1), ContainsKey of O(1)
+TreeMap has a get of O(logn) and a ContainsKey of O(logn)
+```
+
+50.
+```
+Iterator<String> iter = myMap.keySet().iterator();
+while(iter.hasNext()){
+	String str = iter.next();
+	if(myMap.get(str) >= 3.6){
+		System.out.println(str);
+	}
+}
+```
+
+# Unit 6 - Linked Lists and Generic Programming
+
+51.
+```
+A data type with no set type, it can accept any thing within the given constraints
+```
+
+52.
+```
+IllegalStateException is when you try and do something while the iterator isnt holding a value, such as doing remove twice. NoSuchElementException is when you do something that causes you to go out of bounds and try to keep going 
+```
+
+53.
+```
+[Martin, Harvey, Juliet, Marlene, Tom]
+```
+
+54.
+```
+Iterator<String> iter = staff.listIterator();
+while(iter.hasNext()){
+	String str = iter.next();
+	if(str.contains("ar")){
+		iter.remove();
+	}
+	System.out.println(str);
+}
+```
+
+55.
+```
+Improves addLast but not removelast
+```
+
+56.
+```
+a: linked list
+b: linked list
+c: array
+d: array
+```
+
+57.
+```
+public void addFirst(E obj){
+	ListNode<E> node = new ListNode<E>(obj, null);
+	if(front == null){
+		front = back = node;
+	}
+	else{
+		node.setNext(front);
+		front = node;
+	}
+}
+```
+
+58.
+```
+public E removeFirst(){
+	if(front == null){
+		throw new NoSuchElementException;
+	}
+	E val = front.getValue();
+	if(front == back){
+		front = back = null;
+		return val;
+	}
+	front = front.getNext();
+	return val;
+}
+```
+
+59.
+```
+Have a generic type (<K>) in the class heading or a method heading
+```
+
+60.
+```
+Raw types mean using a generic type without specifying a type parameter
+```
+
+
+61.
+```
+public class Practice <K extends AceIt, V extends Exam>
+```
+
+62.
+```
+public int getHeadache(List<E extends Painkiller> listObj)
+```
+
 # Unit 7 - Special Linked Lists
 
 63.
