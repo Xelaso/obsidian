@@ -1,7 +1,7 @@
 | Site         | Username                                           | Password          | Application Status                                              | Additional Info        |
 | ------------ |:-------------------------------------------------- |:----------------- |:--------------------------------------------------------------- |:---------------------- |
 | UTD          | AXS220273                                          | Sp23058012639622  | https://bit.ly/utd-status                                       | UTD-ID: **2021692566** |
-| UT           | **as234885**                                       | Sp=230580         | https://bit.ly/4740yuL                                          |                        |
+| UT           | **as234885**                                       | Sp=23058012639622         | https://bit.ly/4740yuL                                          |                        |
 | TAMU         | 635001000 / alexso@tamu.edu / alexso2105@gmail.com | Sp=230580         | https://applicant.tamu.edu                                      |                        |
 | Northeastern | alexso2105@gmail.com                               | Sp=23058012639622 | https://apply.northeastern.edu/apply/status                     |                        |
 | Georgia Tech | alexso2105@gmail.com                               | Sp=23058012639622 | https://application.gatech.edu/apply/status                     |                        |
