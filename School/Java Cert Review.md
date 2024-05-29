@@ -10,18 +10,29 @@
 		-  turns a ‘Type[]’ array into a string to be outputted (would output the array’s pointer, ie, I@7dc5e7b4, otherwise)
 		- if the array is null, the result is []
 	- .sort(simple array):
-		-  sorts the array, if the array is null, returns []
+		-  sodrts the array, if the array is null, returns []
 		- .binarySearch(simple array, value to look for):
 		- the array must be sorted prior to being passed in; if it is not, the result is undefined (unpredictable)
 		- if there are duplicate elements, there is no guarantee on which one is returned
 		- Returns the index of the element
 		- If the element is not found, take the negative index of where it would be inserted and subtract 1
+	- .asList(simple array):
+		- returns a List that is FIXED IN SIZE
+		- cannot add nor remove, will throw runtime error UnsupportedOperationException
+		- can modify values using set
+	- .binarySearch(reference to simple array, value to search for):
+		- returns index of the value to look for if found
+		- if not found, returns the index the value _should_ be in, converts it to negative, then subtracts 1
 ## Control Flow
 - Switch Statements
 	- The case constant must be compile-time constant (either a literal or a **final variable that is initialized with a literal upon declaration**)
 	- cannot have 2 case statements with the same value
 	- can switch only on int-compatible or string 
 	- The case values must be smaller than or equal to the switch value (ie if you switch on a byte, the cases cannot be bigger than byte. Will cause **compile time error**)
+- Labeled For and While Loops
+	- must _directly_ precede the loop heading, no code between the label and the loop
+- Conditions for For and While Loop:
+	- if the condition in a for and while loop are compile time constant and evaluate to false, a compile error will be thrown
 
 ## Exceptions
 - Try-Catch
