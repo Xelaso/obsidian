@@ -4,6 +4,7 @@ Date: "{{date}}"
 Tagged-Concepts: Notes
 Status: Learning
 ---
-#class-material
+#class-material #college
 
+----
 # Topic
